@@ -10,3 +10,8 @@
 Best model:3 
 
 Screenshots:
+![Trial 1 (2)](https://user-images.githubusercontent.com/82326089/114313935-425e6380-9b16-11eb-82f3-0bfd0a95c5c3.png)
+![Trial 2 (2)](https://user-images.githubusercontent.com/82326089/114313968-60c45f00-9b16-11eb-9e1e-b70699e4ce1a.png)
+![Trial 3 (2)](https://user-images.githubusercontent.com/82326089/114313972-6621a980-9b16-11eb-95e8-0f1482563857.png)
+
+
